@@ -1,0 +1,24 @@
+[31-Mar-2017 23:02:43 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/walk-in.php on line 1
+[31-Mar-2017 23:02:43 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/walk-in.php on line 1
+[31-Mar-2017 23:02:43 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/zenitgtr/public_html/walk-in.php on line 1
+[31-Mar-2017 23:02:48 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/walk-in.php on line 1
+[31-Mar-2017 23:02:48 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/walk-in.php on line 1
+[31-Mar-2017 23:02:48 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/zenitgtr/public_html/walk-in.php on line 1
+[31-Mar-2017 23:03:16 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/walk-in.php on line 1
+[31-Mar-2017 23:03:16 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/walk-in.php on line 1
+[31-Mar-2017 23:03:16 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/zenitgtr/public_html/walk-in.php on line 1
+[31-Mar-2017 23:04:09 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/login.php on line 2
+[31-Mar-2017 23:04:09 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/login.php on line 2
+[31-Mar-2017 23:04:09 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/zenitgtr/public_html/login.php on line 2
+[31-Mar-2017 23:05:42 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/login.php on line 2
+[31-Mar-2017 23:05:42 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/login.php on line 2
+[31-Mar-2017 23:05:42 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zenitgtr/public_html/login.php on line 2
+[02-Apr-2017 09:19:09 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/login.php on line 2
+[02-Apr-2017 09:19:09 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/login.php on line 2
+[02-Apr-2017 09:19:09 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zenitgtr/public_html/login.php on line 2
+[02-Apr-2017 09:19:42 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/login.php on line 2
+[02-Apr-2017 09:19:42 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/login.php on line 2
+[02-Apr-2017 09:19:42 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zenitgtr/public_html/login.php on line 2
+[02-Apr-2017 09:42:26 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/login.php on line 2
+[02-Apr-2017 09:42:26 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/zenitgtr/public_html/login.php on line 2
+[02-Apr-2017 09:42:26 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zenitgtr/public_html/login.php on line 2
